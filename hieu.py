@@ -1,11 +1,11 @@
 you ="today"
-if you == "":
-    robot_brain="I can't hear you,please say"
-elif you == "hello":
-    robot_brain="hello xuan truong"
-elif you == "today":
-        robot_brain="today sunday"
-else:
-    robot_brain= "i'm fine thank you"
+if(you=""):
+    robot_brain="hello baybe"
+elseif(you="cai gi the nay"){
+    robot_brain="cai du ma"
+}
+else{
+    robot_brain="ok"
+}
 
 print(robot_brain)
