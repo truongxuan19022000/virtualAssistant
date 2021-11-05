@@ -4,7 +4,7 @@ if you == "":
 elif you == "hello":
     robot_brain="hello xuan truong"
 elif you == "today":
-        robot_brain="today sunday"
+        robot_brain="today 05/11"
 else:
     robot_brain= "i'm fine thank you"
 
